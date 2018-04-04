@@ -8,10 +8,10 @@ To get you started you can simply clone the `dashboard-nyc-app` repository and i
 
 ### Prerequisites
 
-You need git to clone the `dashboard-nyc-app` repository. You can get git from [here][git].
+You need git to clone the `dashboard-nyc-app` repository. You can get git from https://git-scm.com/download/win.
 
 We also use a number of Node.js tools to run `dashboard-nyc-app`. You must have Node.js
-and its package manager (npm) installed. You can get them from [here][node].
+and its package manager (npm) installed. You can get them from https://nodejs.org/en/.
 
 ### Clone `dashboard-nyc-app`
 
